@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal project: FooMessenger
+- 🔭 I’m currently working on my personal project: Marker
 
 - 🌱 I’m currently learning: unit testing
 
