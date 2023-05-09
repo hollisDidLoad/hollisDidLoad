@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on: any open source projects involving iOS
 
-- 👨‍💻 All of my projects are available at: [https://github.com/hollisDidLoad](https://github.com/hollisDidLoad)
+- 👨‍💻 All of my projects are available at: [https://holliskwanios.wixsite.com/holliskwan](https://holliskwanios.wixsite.com/holliskwan)
 
 - 💬 Ask me about: Swift, SwiftUI or Day Trading.
 
