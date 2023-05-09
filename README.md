@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/hollisDidLoad](https://github.com/hollisDidLoad)
 
-- 💬 Ask me about: Swift or Day Trading.
+- 💬 Ask me about: Swift, SwiftUI or Day Trading.
 
 - 📫 How to reach me: holliskwan.ios@gmail.com
 
